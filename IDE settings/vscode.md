@@ -1,5 +1,7 @@
 # Налаштування Prettier у Visual Studio Code
 
+Веб мануал: https://www.freecodecamp.org/news/how-to-use-prettier-in-visual-studio-code/
+
 ### Крок 1: Встановлення плагіна Prettier
 
 1. Відкрийте **VS Code**.
