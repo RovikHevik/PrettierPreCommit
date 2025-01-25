@@ -11,7 +11,7 @@
 ### Крок 2. Додавання налаштувань в WebStorm (https://www.jetbrains.com/help/webstorm/prettier.html#ws_prettier_apply_code_style)
 
 1. Відкрийте файл [package.json](../package.json)
-2. Відкрийте actions (SHIFT+SHIFT, далі вкладка actions), впишіть туди "Apply Prettier Code Style Rules"
+2. Відкрийте actions (`SHIFT+SHIFT`, далі вкладка actions), впишіть туди "Apply Prettier Code Style Rules"
 3. Нажміть apply
 
 ---
