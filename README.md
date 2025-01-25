@@ -8,4 +8,6 @@
 npm install
 ```
 
-[Інструкція з налаштування hook](config-prettier.md)
+[Інструкція з налаштування hook](config-prettier.md)\
+[Інструкція з налаштування WebStorm](IDE%20settings/webstorm.md)\
+[Інструкція з налаштування VS Code](IDE%20settings/vscode.md)
